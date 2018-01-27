@@ -8,7 +8,7 @@ namespace Bam
         {
             InitializeComponent();
 
-            MainPage = new BamPage();
+            MainPage = new Pages.MyPage();
         }
 
         protected override void OnStart()
